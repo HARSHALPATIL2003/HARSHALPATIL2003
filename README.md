@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalpatil2003&label=Profile%20views&color=0e75b6&style=flat" alt="harshalpatil2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshalpatil2003" alt="harshalpatil2003" /></a> </p>
+- 🌱 I’m currently learning **React and Frontend Skills**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **JavaScript,React**
 
 - 📫 How to reach me **harshal.dp11@gmail.com**
 
@@ -15,8 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/hd11patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hd11patil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/harshalpatil11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/harshalpatil11/" height="30" width="40" /></a>
 <a href="https://instagram.com/harshal.dp_sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal.dp_sde" height="30" width="40" /></a>
+<a href="https://discord.gg/hd11patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hd11patil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
